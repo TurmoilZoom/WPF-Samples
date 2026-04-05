@@ -23,6 +23,7 @@ namespace CommonDialogs
     {
         public MainWindow()
         {
+            //触发索引
             InitializeComponent();
         }
     }
